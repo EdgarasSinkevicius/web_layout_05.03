@@ -50,4 +50,29 @@
     background-image: linear-gradient(rgba(211, 211, 211, 0.1), rgba(255, 255, 255, 0.4));
     background-size: cover;
     height: 350px;
+    font-size: 32px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+/* .overlay2 {
+
+    background-size: cover;
+    height: 350px;
+    font-size: 32px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+} */
+.overlay:hover {
+    background: linear-gradient(rgba(128, 128, 128, 0.6), rgba(0, 0, 0, 0.4));
+}
+.overlay:hover > p {
+    display: block;
 }

@@ -80,5 +80,6 @@ nav {
 footer {
     background-color: aqua;
 }
-
-
+p {
+    display: none;
+}
