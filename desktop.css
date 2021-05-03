@@ -33,4 +33,15 @@ nav {
 .nav--toggle {
     display: none;
 }
-
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.column {
+    flex: 25%;
+    max-width: 25%;
+}
+.column img {
+    vertical-align: middle;
+    width: 100%;
+}
