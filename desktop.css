@@ -80,3 +80,57 @@ nav {
 footer {
     background-color: aqua;
 }
+.background1 {
+    background-image: url("fox.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.background2 {
+    background-image: url("grizzly1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.background3 {
+    background-image: url("lake.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.background4 {
+    background-image: url("nature.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.background5 {
+    background-image: url("panda.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.background6 {
+    background-image: url("plateu.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.background7 {
+    background-image: url("wolf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.background8 {
+    background-image: url("river.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.overlay {
+    background-image: linear-gradient(rgba(211, 211, 211, 0.1), rgba(255, 255, 255, 0.4));
+    background-size: cover;
+    height: 350px;
+
+}
